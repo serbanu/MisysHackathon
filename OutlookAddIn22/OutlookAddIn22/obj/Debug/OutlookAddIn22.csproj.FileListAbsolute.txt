@@ -1,0 +1,13 @@
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\obj\Debug\OutlookAddIn22.Properties.Resources.resources
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\obj\Debug\OutlookAddIn22.csproj.GenerateResource.Cache
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\OutlookAddIn22.dll
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\OutlookAddIn22.pdb
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\OutlookAddIn22.dll.manifest
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\OutlookAddIn22.vsto
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\obj\Debug\OutlookAddIn22.dll
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\obj\Debug\OutlookAddIn22.pdb
+c:\users\igheorgh\documents\visual studio 2012\Projects\OutlookAddIn22\OutlookAddIn22\obj\Debug\OutlookAddIn22.csprojResolveAssemblyReference.cache
